@@ -1,0 +1,31 @@
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\Ball.png
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\BallWallCollision.wav
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\Middle.png
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\Paddle.png
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\PaddleBallCollision.wav
+C:\Users\ronald.junior\Documents\Visual Studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Pong Assets\StartScreen.png
